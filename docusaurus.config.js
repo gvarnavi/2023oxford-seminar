@@ -71,7 +71,7 @@ const config = {
 	}
       },
       navbar: {
-	title: 'RFI/ePSIC Talk | bit.ly/oxford-ptycho',
+	title: 'RFI/ePSIC Talk | bit.ly/oxford23-ptycho',
         logo: {
           alt: 'Presentations',
           src: 'img/favicon.svg',
